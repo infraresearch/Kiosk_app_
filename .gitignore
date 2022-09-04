@@ -1,0 +1,10 @@
+/__temp
+/font
+/intro
+/js/anychart
+/js/proj4
+/img
+/data
+.DS_Store
+.idea
+.gitignore
